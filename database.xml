@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TaskList>
+	
+	<Task id="1">
+		<Name>Wash laundry</Name>
+		<Complete>Not Complete</Complete>
+	</Task>
+<Task id="2"><Name>do homework</Name><Complete>Complete</Complete></Task><Task id="3"><Name>Do dishes</Name><Complete>Not Complete</Complete></Task></TaskList>
